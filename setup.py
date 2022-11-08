@@ -1,5 +1,5 @@
 setup(
     name="githooks",
-    version="0.0.0.dev0",
+    version="0.0.0",
 )
 
